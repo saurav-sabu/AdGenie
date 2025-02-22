@@ -3,6 +3,8 @@
 ## 📌 Overview
 This AI-powered ad copy generator, **AdGenie**, is a **Streamlit-based web application** that generates personalized ad copies for brands, products, and services. The tool allows users to specify their **brand name, product description, target audience, and preferred tone**.
 
+🚀 Try the live app here: [AdGenie on Streamlit](https://adgenie.streamlit.app/)
+
 ## 🚀 Features
 - **Personalized ad copy generation** tailored to your brand
 - **Adjustable tone** selection (Exciting, Professional, Casual)
